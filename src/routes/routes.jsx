@@ -7,7 +7,7 @@ import Users from "../pages/Users";
 import Subscribers from "../pages/Subscribers";
 import TermsAndConditions from "../pages/TermsAndConditions";
 import Myaccount from "../pages/Myaccount";
-import Notifications from "../pages/notifications";
+import Notifications from "../pages/Notifications";
 import Login from "../pages/Login";
 import ForgetPassword from "../pages/ForgetPassword";
 import OtpVerify from "../pages/OtpVerify";
